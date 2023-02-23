@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<employees>
+      <employee>
+            <email>asd@example.com</email>
+            <pass>123456</pass>
+      </employee>
+      <employee>
+            <email>admin@example.com</email>
+            <pass>123456</pass>
+      </employee>
+</employees>
